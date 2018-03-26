@@ -15,7 +15,7 @@ It is up to you to decide:
 Using the data from 'Surroundings.json' file, prepare a dataset with exploratory variables to be uses for modeling.
 The goal is to create a model that identifies important attributes in the surroundings that impact sales.
 
-Objectives:
+### Objectives:
 Please prepare the presentation with your results. In it, you'll have to justify and explain:
 *	How did you create the target variable?
 *	How did you prepare the final dataset for modeling?
