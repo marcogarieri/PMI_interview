@@ -24,4 +24,4 @@ The code is an interactive ipython notebook
 ipython notebook
 ```
 
-This code will automatically open a webpage with the 
+This will automatically open a webpage with the interactive folder to visualize the python notebooks.
